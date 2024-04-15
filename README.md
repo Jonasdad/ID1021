@@ -1,1 +1,1 @@
-ID1021 - Algorithms and Datastructures, is a KTH given at KTH. Here you'll find Java implementations of the most commonly used data structures i.e. Binary Trees, Queues, Priority Queues, Stack 
+ID1021 - Algorithms and Datastructures, is a KTH given at KTH. Here you'll find Java implementations of the most commonly used data structures i.e. Binary Trees, Queues, Priority Queues, Stack and Hash Maps. Additionally you'll find common algorithms such as Binary Search, Sequential Search, Merge Sort, Hashing Algorithms
